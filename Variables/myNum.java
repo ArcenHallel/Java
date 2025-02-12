@@ -1,9 +1,9 @@
-// public class myNum {
-//     public static void main(String[] args){
-//         int myNum = 15;
-//         System.out.println(myNum);
-//     }
-// }
+public class myNum {
+    public static void main(String[] args){
+        int myNum = 15;
+        System.out.println(myNum);
+    }
+}
 
 // // declare a variable without assigning the value, assign value later:
 
@@ -28,11 +28,11 @@
   
 
 // constant (can not be changed and read-only)
-public class myNum {
-    public static void main(String[] args) {
-      final int myNum = 15;
-      myNum = 20; // will generate an error
-      System.out.println(myNum);
-    }
-  }
+// public class myNum {
+//     public static void main(String[] args) {
+//       final int myNum = 15;
+//       myNum = 20; // will generate an error
+//       System.out.println(myNum);
+//     }
+//   }
   
